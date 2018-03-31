@@ -12,7 +12,7 @@ import java.lang.String;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class MainActivity extends AppCompatActivity {
+public class Activity extends AppCompatActivity {
     public ArrayList<String> arrayElementi = new ArrayList<>();
     private TextView Spiegazione, Res;
     private Button ok_btn;
